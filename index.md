@@ -1,6 +1,10 @@
 # This is a new markdown
 ## Step 1
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![This image about the yellow mailbox](https://images.pexels.com/photos/11650554/pexels-photo-11650554.jpeg)
 
 ## This code about language ```Pandas```
